@@ -68,4 +68,4 @@ GNU GPL v3.
 
 ### Donate
 
-Please donate to an electronic rights organization like [EFF](https://www.eff.org/), or [teach someone that encryption isn't a bad thing]().
+Please donate to an electronic rights organization like [EFF](https://www.eff.org/), or [teach someone that encryption isn't a bad thing](https://www.schneier.com/blog/archives/2015/06/why_we_encrypt.html).
